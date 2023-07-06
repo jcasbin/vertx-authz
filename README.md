@@ -6,7 +6,7 @@
 [![Javadocs](https://www.javadoc.io/badge/org.casbin/vertx-authz.svg)](https://www.javadoc.io/doc/org.casbin/vertx-authz)
 [![Maven Central](https://img.shields.io/maven-central/v/org.casbin/vertx-authz.svg)](https://mvnrepository.com/artifact/org.casbin/vertx-authz/latest)
 [![Release](https://img.shields.io/github/release/jcasbin/vertx-authz.svg)](https://github.com/jcasbin/vertx-authz/releases/latest)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/casbin/lobby)
+[![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 jcasbin-vertx-plugin is an authorization middleware based on [jCasbin](https://casbin/jcasbin) for [Vert.x](https://vertx.io/)
 
