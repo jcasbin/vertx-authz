@@ -8,7 +8,7 @@
 [![Release](https://img.shields.io/github/release/jcasbin/vertx-authz.svg)](https://github.com/jcasbin/vertx-authz/releases/latest)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
-jcasbin-vertx-plugin is an authorization middleware based on [jCasbin](https://casbin/jcasbin) for [Vert.x](https://vertx.io/)
+jcasbin-vertx-plugin is an authorization middleware based on [jCasbin](https://github.com/casbin/jcasbin) for [Vert.x](https://vertx.io/)
 
 ## Installation
 
